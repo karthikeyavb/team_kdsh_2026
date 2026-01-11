@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+outputs/vector_store/
+outputs/*.json
+outputs/*.csv
+# Keep gitignore itself
+!.gitignore
